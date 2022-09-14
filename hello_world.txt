@@ -1,0 +1,1 @@
+Writting to stage then commit
